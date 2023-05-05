@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 Sobre Mi:
-👩🏻‍💻 Actualmente estoy estudiando Programación en Egg. ✏️<br>🤓 Soy autodidacta y me encanta aprender de todo 📚<br>🕹️💻Me encanta todo lo que tenga que ver con tecnología, arte y música<br>😺Si quieres saber mas de mi solo pregúntame! <br> 
+👩🏻‍💻 Actualmente estoy estudiando Programación en Egg. ✏️<br>🤓 Soy autodidacta y me encanta aprender de todo 📚<br>🕹️💻Me encanta todo lo que tenga que ver con tecnología, arte y música<br>😺Si queres saber mas de mi solo preguntame! <br> 
 
 
 ## 🌐 Socials:
@@ -25,7 +25,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MarielaEsteche&icon=2&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 Apoyame con una Donacion?
+  ## 💰 Apoyame con una Donacion
   [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/meloonsky) 
   
 <!--
